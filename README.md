@@ -6,7 +6,7 @@ Personal workout web application with Angular and .net core
 - git init
 - git branch -M main
 - git commit -m "Initial commit"
-- git remote add origin <git repository url>
+- git remote add origin {git repository url}
 - git push -u origin main or git push -u origin main --force
 
 # Create Angular project
@@ -14,9 +14,9 @@ Personal workout web application with Angular and .net core
 - ng new client
 
 - When create components using below:
--- ng g c <name>
+-- ng g c {name}
 
 - When create services using below:
--- ng g s <name>
+-- ng g s {name}
 
 
