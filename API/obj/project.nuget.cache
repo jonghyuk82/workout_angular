@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0gmFwygxztlFQcTl+B8pl2EJI1lp3sSQqJ6gD4lveLvMOWbYiW323TjQqFMHXuZHc+UV1Qe5WrDeZthr+KfNQ==",
+  "success": true,
+  "projectFilePath": "E:\\Study\\Workout_app\\angular\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\JOHNLEE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
